@@ -1,0 +1,22 @@
+{
+  "name": "ps_number_guessing_game",
+  "version": "1.0.0",
+  "description": "Assignment has been taken from @Panaverse/learn-typescript in baby steps. I have completed Number Guessing Game Project to get First Hand experience on Typescript, Node.js and Inquirer.",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Parizah Shaikh",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  }
+}
